@@ -6,7 +6,6 @@ import { logo } from "@/images";
 
 const Logo = ({
   className,
-  spanDesign,
 }: {
   className?: string;
   spanDesign?: string;
