@@ -18,7 +18,7 @@ const Footer = () => {
           <div className="space-y-4">
             <Logo />
             <SubText>
-              Discover curated furniture collections at Shopcartyt, blending
+              Discover curated furniture collections at Aikya, blending
               style and comfort to elevate your living spaces.
             </SubText>
             <SocialMedia
@@ -71,7 +71,7 @@ const Footer = () => {
         </div>
         <div className="py-6 border-t text-center text-sm text-gray-600">
           <div>
-            © {new Date().getFullYear()} <Logo className="text-sm" />. All
+            © {new Date().getFullYear()} Aikya Traders All
             rights reserved.
           </div>
         </div>
